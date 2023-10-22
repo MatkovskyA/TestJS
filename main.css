@@ -1,0 +1,23 @@
+.content-hidden {
+    display: none;
+}
+
+.hidden {
+    display: none;
+}
+
+.fade-block {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(56, 105, 56, 0.5);
+}
+
+.modal-window {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
